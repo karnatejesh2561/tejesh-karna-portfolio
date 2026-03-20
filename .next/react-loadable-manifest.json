@@ -1,0 +1,40 @@
+{
+  "..\\node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js": {
+    "id": "..\\node_modules\\@react-three\\drei\\core\\VideoTexture.js -> hls.js",
+    "files": []
+  },
+  "..\\node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": "..\\node_modules\\@react-three\\drei\\web\\FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "files": []
+  },
+  "..\\node_modules\\@react-three\\rapier\\dist\\react-three-rapier.esm.js -> @dimforge/rapier3d-compat": {
+    "id": "..\\node_modules\\@react-three\\rapier\\dist\\react-three-rapier.esm.js -> @dimforge/rapier3d-compat",
+    "files": []
+  },
+  "app\\page.tsx -> ../components/Character": {
+    "id": "app\\page.tsx -> ../components/Character",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_Character_index_tsx.js"
+    ]
+  },
+  "app\\page.tsx -> ../components/MainContainer": {
+    "id": "app\\page.tsx -> ../components/MainContainer",
+    "files": [
+      "static/css/_app-pages-browser_src_components_MainContainer_tsx.css",
+      "static/chunks/_app-pages-browser_src_components_MainContainer_tsx.js"
+    ]
+  },
+  "components\\Loading.tsx -> ./utils/initialFX": {
+    "id": "components\\Loading.tsx -> ./utils/initialFX",
+    "files": [
+      "static/css/_app-pages-browser_src_components_utils_initialFX_ts.css",
+      "static/chunks/_app-pages-browser_src_components_utils_initialFX_ts.js"
+    ]
+  },
+  "components\\MainContainer.tsx -> ./TechStack": {
+    "id": "components\\MainContainer.tsx -> ./TechStack",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_TechStack_tsx.js"
+    ]
+  }
+}

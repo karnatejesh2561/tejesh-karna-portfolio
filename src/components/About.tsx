@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Frontend Full Stack Developer with 2 years 7 months of experience building scalable web
-          applications using React.js, Next.js, Node.js. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Frontend Engineer with 3 years of experience building scalable, production-ready web applications with React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB. I specialize in SSR/SSG/ISR, SEO, performance optimization, REST APIs, and AI-assisted frontend workflows, with a strong focus on clean architecture and reliable delivery.
         </p>
       </div>
     </div>

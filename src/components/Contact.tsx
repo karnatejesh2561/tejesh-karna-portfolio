@@ -14,8 +14,24 @@ const Contact = () => {
                 tejeshkarna96@gmail.com
               </a>
             </p>
+            <h4>Phone</h4>
+            <p>
+              <a href="tel:+918309992561" data-cursor="disable">
+                +91 8309992561
+              </a>
+            </p>
+            <h4>Location</h4>
+            <p>Hyderabad / Bangalore</p>
+            <h4>Open to</h4>
+            <p>Remote & Relocation</p>
             <h4>Education</h4>
-            <p>B.com in Computers</p>
+            <p>
+              Bachelor&apos;s Degree in Computers
+              <br />
+              Vikram Simhapuri University • CGPA 8.0
+              <br />
+              2019 - 2022
+            </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>

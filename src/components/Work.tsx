@@ -8,12 +8,18 @@ const projects = [
     title: "PalAsk",
     category: "AI Platform",
     tools: "Next.js, TypeScript, Tailwind CSS",
+    description:
+      "Engineered AI-driven frontend workflows to automate content creation, streamline SSR and SEO, and improve user engagement with 20+ reusable UI components.",
+    timeline: "Sep 2025 - Nov 2025",
     image: "/images/palask.png",
   },
   {
     title: "Together Buying",
     category: "Group Purchasing E-commerce Platform",
     tools: "Next.js, JavaScript, Sass, Node.js, Express, MongoDB",
+    description:
+      "Built scalable Next.js and Node.js workflows for real-time group deal updates, countdown timers, and order tracking while supporting 500+ orders reliably.",
+    timeline: "Mar 2023 - Jul 2025",
     image: "/images/together-buying.png",
   },
 ];
@@ -93,6 +99,8 @@ const Work = () => {
                         <div className="carousel-tools">
                           <span className="tools-label">Tools & Features</span>
                           <p>{project.tools}</p>
+                          <p>{project.description}</p>
+                          <p>{project.timeline}</p>
                         </div>
                       </div>
                     </div>

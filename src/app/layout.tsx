@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata: any = {
-    title: "Karna Tejesh Kumar - Frontend Engineer",
+    title: "Karna Tejesh Kumar | Frontend Engineer",
     description:
-        "Portfolio of Karna Tejesh Kumar — Frontend Engineer & MERN Stack Developer specializing in React.js, Next.js, and scalable web applications.",
+        "Portfolio of Karna Tejesh Kumar — Frontend Engineer and MERN Stack developer specializing in React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and AI-driven frontend experiences.",
 };
 
 export default function RootLayout({

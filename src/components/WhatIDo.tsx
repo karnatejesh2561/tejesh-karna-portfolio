@@ -90,8 +90,7 @@ const WhatIDo = () => {
               <h3>FRONTEND</h3>
               <h4>Building Interactive UIs</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Crafting performant, responsive interfaces with React.js, Next.js, and TypeScript. I build scalable UI systems with SSR, SSG, ISR, and modern styling practices for production-ready experiences.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -128,8 +127,7 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Scalable Server Architecture</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing robust APIs and full-stack workflows with Node.js, Express.js, MongoDB, and RESTful services. I also integrate AI APIs such as OpenAI, Gemini, and Claude into modern web products.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -137,7 +135,9 @@ const WhatIDo = () => {
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
+                <div className="what-tags">OpenAI</div>
+                <div className="what-tags">Gemini</div>
+                <div className="what-tags">Claude</div>
               </div>
               <div className="what-arrow"></div>
             </div>
